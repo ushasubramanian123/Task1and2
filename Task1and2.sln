@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1 Chrome", "Task1and2\Task1 Chrome.csproj", "{5C62D34E-5644-46C2-BA4F-AC4D5E136588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C62D34E-5644-46C2-BA4F-AC4D5E136588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C62D34E-5644-46C2-BA4F-AC4D5E136588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C62D34E-5644-46C2-BA4F-AC4D5E136588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C62D34E-5644-46C2-BA4F-AC4D5E136588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF6BEF9-6424-4FC2-88F1-78A0A962F521}
+	EndGlobalSection
+EndGlobal
